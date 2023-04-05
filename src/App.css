@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Gagalin;
+    src: url('./assets/Gagalin-Regular.otf');
+}
+
+
+.Logo {
+    color: white;
+    text-align: center;
+    font-family: Gagalin;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.menus {
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: White; 
+    text-align: center;
+}
+
+.menus:hover {
+    color: rgb(230, 230, 230); 
+}
+
+.navBg{
+    color: #9BB5BF;
+    background: #000000;
+}
+
+.carrusel {
+    padding-top: 30px;
+    text-align: center;
+    background: #F2F2F2; 
+    height: 500px;
+}
+
+.carrusel h2 {
+    font-family: Gagalin;
+    color: rgb(4, 104, 113);
+}
+
+section {
+    color: #000000;
+    text-shadow: 3px , 3px;
+    background-color: #F2F2F2;
+    height: 100vh;
+}
+
+.imagenCarrusel {
+    height: 400px;
+    width: 90%;
+}
+
+.imagenCarrusel.Sacos {
+    text-align: center;
+    height: 600px;
+    width: 90%;
+}
